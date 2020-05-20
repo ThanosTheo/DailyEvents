@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499009583770",
+    "firebase_url": "https://dailyevents-ff278.firebaseio.com",
+    "project_id": "dailyevents-ff278",
+    "storage_bucket": "dailyevents-ff278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499009583770:android:c7601c9161d6407c",
+        "android_client_info": {
+          "package_name": "com.unipi.ttheodosiou.dailyevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499009583770-42481d84h8hr8mjhi6m51coe7itlhjmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unipi.ttheodosiou.dailyevents",
+            "certificate_hash": "4a3abe52117d7a5dfb6d949cfb7b4aaa40e719bb"
+          }
+        },
+        {
+          "client_id": "499009583770-fbjvi1928oe29d1k20qaqeh97qrepi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOsHWMFMfKCyCm9tU48zFRlocag3tNINQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499009583770-fbjvi1928oe29d1k20qaqeh97qrepi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
