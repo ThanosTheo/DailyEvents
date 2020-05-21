@@ -21,8 +21,8 @@ import java.util.List;
 
 public class ParseData extends AsyncTask<Void,Void,Void>
 {
-    static int number_of_events=15;
-    String url1="http://api.eventful.com/json/events/search?app_key=HVf768HpDKC8HF4Q&location="+String.valueOf(location)+"&page_size="+String.valueOf(number_of_events);
+    static int number_of_events= 25;
+    String url1="http://api.eventful.com/json/events/search?app_key="+BuildConfig.ApiKey+"&location="+"Athens"+"&page_size="+String.valueOf(number_of_events);
     String data="";
     static boolean done=false;
     static String[] Title=new String[number_of_events];
